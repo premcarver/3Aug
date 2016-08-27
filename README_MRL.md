@@ -64,7 +64,7 @@ Rename all JSON files to remove .example to get it in working mode. Below is the
 ![example image](/images/example.png)
 
 
-Run below commands to run your projects. Kindly note that for first time it will take few minutes to make build for you.
+Command to run in local browser. Kindly note that for first time it will take few minutes to make build for you.
 ```sh
 $ ionic serve
 ```
