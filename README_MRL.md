@@ -8,7 +8,7 @@
   - Should have knowledge about Linux operating system & command lines.
   - Softwares required
     - [JDK 7 or later] - Java development kit would be required to run android environment!
-    - [Apache Cordova] - awesome web framework.
+    - [Apache Cordova] - Mobile apps with HTML, CSS & JS.
     - [GIT] - Git is a free and open source distributed version control system.
     - [Node.js] - Evented I/O for the backend.
     - [Gulp] - The streaming build system.
