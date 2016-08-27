@@ -3,7 +3,7 @@
 
  My Residence Link (MRL) is designed to make customized mobile app based on admin preferences.
 
-## Mobile Dev environment setup plan
+## Dev environment setup plan
 ### Assumptions and Constraints
   - Should have knowledge about Linux operating system & command lines.
   - Softwares required
