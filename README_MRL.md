@@ -1,15 +1,16 @@
 # MRL
 
 
- My Residence Link (MRL) is designed to make customized mobile app based on admin preferences.
+ My Resident Linc (MRL) is designed to make customized mobile app based on admin preferences.
 
 ## Dev environment setup plan
 ### Assumptions and Constraints
   - Should have knowledge about Linux operating system & command lines.
   - Softwares required
-    - [JDK 7 or later] - Java development kit would be required to run android environment!
-    - [Apache Cordova] - Mobile apps with HTML, CSS & JS.
     - [GIT] - Git is a free and open source distributed version control system.
+    - [JDK 7 or later] - Java development kit would be required to run android environment!
+    - [Android SDK] - For Android development
+    - [Apache Cordova] - Mobile apps with HTML, CSS & JS.
     - [Node.js] - Evented I/O for the backend.
     - [Gulp] - The streaming build system.
 
@@ -27,18 +28,18 @@ Set the ANDROID_HOME environment variable to the location of your Android SDK in
 It is also recommended that you add the Android SDK's tools and platform-tools directories to your PATH
 
 ```sh
-$ export ANDROID_HOME=/Development/android-sdk/
+$ export ANDROID_HOME=/<your android dev diresctory>/android-sdk/
 
-$ export PATH=${PATH}:/Development/android-sdk/platform-tools:/Development/android-sdk/tools
+$ export PATH=${PATH}:/<your android dev diresctory>/android-sdk/platform-tools:/<your android dev diresctory>/android-sdk/tools
 ```
 Reload your terminal to see this change reflected or run the following command:
 
 ```sh
-$ source ~/.bash_profile
+$ source ~/.bashrc
 
 ```
 
-***Generate the SSH key and add the same in your assembla profile***
+**Generate the SSH key and add the same in your assembla profile**
 
 
 #### Project code Setup
