@@ -1,5 +1,7 @@
 # MRL
- 
+=====
+
+
  My Residence Link (MRL) is designed to make customized mobile app based on admin preferences.
 
 ## Mobile Dev environment setup plan
@@ -54,11 +56,11 @@ Go to the newly cloned directory
 ```sh
 $ cd papayaheaderlabs.MushroomMobile
 ```
-Run the below command to resolve dependencies 
+Run the below command to resolve dependencies
 ```sh
 $ npm install
 ```
-Rename all jason files to remove .example to get it in working mode. Below is the screenshot for more details 
+Rename all jason files to remove .example to get it in working mode. Below is the screenshot for more details
 
 ![example image](/images/example.png)
 
@@ -69,7 +71,7 @@ $ ionic serve
 ```
 Verify the deployment by navigating to your cell phone or http://localhost:8100 address in your preferred browser.
 
-To deploy the on mobile device run this: 
+To deploy the on mobile device run this:
 ```sh
 $ ionic run android
 ```
@@ -91,5 +93,3 @@ License
    [GIT]: <http://git-scm.com/downloads>
    [Apache Cordova]: <http://cordova.apache.org/docs/en/latest/guide/cli/index.html>
    [Android SDK]: <http://developer.android.com/sdk/installing/index.html?pkg=tools>
-
-  
