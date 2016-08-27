@@ -1,5 +1,4 @@
 # MRL
-=====
 
 
  My Residence Link (MRL) is designed to make customized mobile app based on admin preferences.
