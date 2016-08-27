@@ -38,7 +38,7 @@ $ source ~/.bash_profile
 
 ```
 
-*** Generate the SSH key and add the same in your assembla profile ***
+***Generate the SSH key and add the same in your assembla profile***
 
 
 #### Project code Setup
@@ -59,7 +59,7 @@ Run the below command to resolve dependencies
 ```sh
 $ npm install
 ```
-Rename all jason files to remove .example to get it in working mode. Below is the screenshot for more details
+Rename all JSON files to remove .example to get it in working mode. Below is the screenshot for more details
 
 ![example image](/images/example.png)
 
