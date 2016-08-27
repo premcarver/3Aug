@@ -38,7 +38,7 @@ $ source ~/.bash_profile
 
 ```
 
-== Generate the SSH key and add the same in your assembla profile. ==
+*** Generate the SSH key and add the same in your assembla profile ***
 
 
 #### Project code Setup
@@ -70,7 +70,7 @@ $ ionic serve
 ```
 Verify the deployment by navigating to your cell phone or http://localhost:8100 address in your preferred browser.
 
-To deploy the on mobile device run this:
+To deploy the same on mobile device run this:
 ```sh
 $ ionic run android
 ```
@@ -83,7 +83,7 @@ For production release:
 License
 ----
 
-@Headerlabs India
+[Headerlabs India] (http:www.headerlabs.com/licence)
 
 
    [node.js]: <http://nodejs.org>
