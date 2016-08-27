@@ -28,9 +28,9 @@ Set the ANDROID_HOME environment variable to the location of your Android SDK in
 It is also recommended that you add the Android SDK's tools and platform-tools directories to your PATH
 
 ```sh
-$ export ANDROID_HOME=/<your android dev diresctory>/android-sdk/
+$ export ANDROID_HOME=/<your android installation directory>/android-sdk/
 
-$ export PATH=${PATH}:/<your android dev diresctory>/android-sdk/platform-tools:/<your android dev diresctory>/android-sdk/tools
+$ export PATH=${PATH}:/<your android installation directory>/android-sdk/platform-tools:/<your android dev diresctory>/android-sdk/tools
 ```
 Reload your terminal to see this change reflected or run the following command:
 
